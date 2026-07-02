@@ -1,0 +1,1237 @@
+{
+  "thermal_stock_v1": {
+    "21443832": {
+      "code": "21443832",
+      "name": "ARIEL sunrise fresh jumbo pack 66g.",
+      "unit": "pcs",
+      "rate": 17,
+      "discount": 0,
+      "qty": 199998,
+      "minAlert": 0
+    },
+    "48025515": {
+      "code": "48025515",
+      "name": "coffeemate 5g.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "48025522": {
+      "code": "48025522",
+      "name": "magic sarap 8gm",
+      "unit": "pcs",
+      "rate": 6,
+      "discount": 0,
+      "qty": 9999999,
+      "minAlert": 0
+    },
+    "48036214": {
+      "code": "48036214",
+      "name": "star margarinr classic 100g.",
+      "unit": "pcs",
+      "rate": 38,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361419642": {
+      "code": "4800361419642",
+      "name": "magic sarap pack",
+      "unit": "pcs",
+      "rate": 80,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4801958342008": {
+      "code": "4801958342008",
+      "name": "ajinomoto 24qms.",
+      "unit": "pcs",
+      "rate": 8,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4801958341100": {
+      "code": "4801958341100",
+      "name": "ajinomoto blue pack",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4806516764315": {
+      "code": "4806516764315",
+      "name": "jersey cheese 165gms.",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361061322": {
+      "code": "4800361061322",
+      "name": "nestle all purpose cream 250ml.",
+      "unit": "pcs",
+      "rate": 73,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4808647020094": {
+      "code": "4808647020094",
+      "name": "eden cheese 160gms.",
+      "unit": "pcs",
+      "rate": 60,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800361410892": {
+      "code": "4800361410892",
+      "name": "bearbrand 300gms.",
+      "unit": "pcs",
+      "rate": 110,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800361388771": {
+      "code": "4800361388771",
+      "name": "bearbrand 680grms.",
+      "unit": "pcs",
+      "rate": 255,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800017909305": {
+      "code": "4800017909305",
+      "name": "ram sweet style spaghetti sauce 900g.",
+      "unit": "pcs",
+      "rate": 102,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4805358202016": {
+      "code": "4805358202016",
+      "name": "star margarine choco 100g.",
+      "unit": "pcs",
+      "rate": 38,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800361420129": {
+      "code": "4800361420129",
+      "name": "magic sarap 55g.",
+      "unit": "pcs",
+      "rate": 30,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800361390804": {
+      "code": "4800361390804",
+      "name": "nestle coffee mate 150g.",
+      "unit": "pcs",
+      "rate": 48,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800361393645": {
+      "code": "4800361393645",
+      "name": "nescafe clssic 40g.",
+      "unit": "pcs",
+      "rate": 55,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361393683": {
+      "code": "4800361393683",
+      "name": "nescafe classic 80g.",
+      "unit": "pcs",
+      "rate": 105,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4806516761904806516761901": {
+      "code": "4806516761904806516761901",
+      "name": "jersey powder milk drink 650g.",
+      "unit": "pcs",
+      "rate": 190,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4806516762069": {
+      "code": "4806516762069",
+      "name": "jersey powdered milk 900+100g.",
+      "unit": "pcs",
+      "rate": 260,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800017938305": {
+      "code": "4800017938305",
+      "name": "ram premium spaghetti 1kl.",
+      "unit": "pcs",
+      "rate": 90,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800344020223": {
+      "code": "4800344020223",
+      "name": "silver swan sweet chili sauce 180g.",
+      "unit": "pcs",
+      "rate": 42,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4804888889025": {
+      "code": "4804888889025",
+      "name": "quickchow beef flavor 55g.",
+      "unit": "pcs",
+      "rate": 9,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770270017": {
+      "code": "4807770270017",
+      "name": "lucky me beef 55g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770272097": {
+      "code": "4807770272097",
+      "name": "lucky me spicy labuyo beef 50g.",
+      "unit": "pcs",
+      "rate": 11,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4807770270024": {
+      "code": "4807770270024",
+      "name": "lucky me chiken 55g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4807770272554": {
+      "code": "4807770272554",
+      "name": "pansit canton sweet and spicy 60g.",
+      "unit": "pcs",
+      "rate": 14,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4807770271229": {
+      "code": "4807770271229",
+      "name": "lucky me pansit canton extra hot chili 60g.",
+      "unit": "pcs",
+      "rate": 14,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770270123": {
+      "code": "4807770270123",
+      "name": "lucky me pansit canton kalamansi 60g.",
+      "unit": "pcs",
+      "rate": 14,
+      "discount": 0,
+      "qty": 999998,
+      "minAlert": 0
+    },
+    "4807770270291": {
+      "code": "4807770270291",
+      "name": "lucky me pansit canton chilimansi 60g.",
+      "unit": "pcs",
+      "rate": 14,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361415293": {
+      "code": "4800361415293",
+      "name": "milo twin48g.",
+      "unit": "pcs",
+      "rate": 19,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800361413992": {
+      "code": "4800361413992",
+      "name": "nescafe creamylatte twin pack 20g.",
+      "unit": "pcs",
+      "rate": 140,
+      "discount": 0,
+      "qty": 199998,
+      "minAlert": 0
+    },
+    "4800361415347": {
+      "code": "4800361415347",
+      "name": "nescafe original twin pack 20g.",
+      "unit": "pcs",
+      "rate": 140,
+      "discount": 0,
+      "qty": 1099998,
+      "minAlert": 0
+    },
+    "4800361413480": {
+      "code": "4800361413480",
+      "name": "milo 24g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361410816": {
+      "code": "4800361410816",
+      "name": "bearbrand powdered milk 33g.",
+      "unit": "pcs",
+      "rate": 88,
+      "discount": 0,
+      "qty": 1099998,
+      "minAlert": 0
+    },
+    "48012146614801214661485": {
+      "code": "48012146614801214661485",
+      "name": "pansit yan yan pack",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "3000002956951": {
+      "code": "3000002956951",
+      "name": "misua pack",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806011817349": {
+      "code": "4806011817349",
+      "name": "suki bihon 150g.",
+      "unit": "pcs",
+      "rate": 14,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806516761628": {
+      "code": "4806516761628",
+      "name": "jersey powdered milk 28+5g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "yb2MCb28996001440049": {
+      "code": "yb2MCb28996001440049",
+      "name": "energen choco",
+      "unit": "pcs",
+      "rate": 90,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800361339186": {
+      "code": "4800361339186",
+      "name": "nescafe 20g.",
+      "unit": "pcs",
+      "rate": -2800,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361000826": {
+      "code": "4800361000826",
+      "name": "coffeemate 5g.pack",
+      "unit": "pcs",
+      "rate": 99,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "8851717200007": {
+      "code": "8851717200007",
+      "name": "dutchmill 90ml. pack",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800361339568": {
+      "code": "4800361339568",
+      "name": "nescafe stick",
+      "unit": "pcs",
+      "rate": 4,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4902430698146": {
+      "code": "4902430698146",
+      "name": "pantene shampoo15ml. dozen",
+      "unit": "pcs",
+      "rate": 85,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806515161504": {
+      "code": "4806515161504",
+      "name": "keratin plus black 20g. 12pcs.",
+      "unit": "pcs",
+      "rate": 82,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800888169716": {
+      "code": "4800888169716",
+      "name": "sunsilk smooth and manageble shampoo 15ml.",
+      "unit": "pcs",
+      "rate": 78,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "8850006493014": {
+      "code": "8850006493014",
+      "name": "palmolive natural intensive moisture 15ml",
+      "unit": "pcs",
+      "rate": 78,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "8998666001702": {
+      "code": "8998666001702",
+      "name": "kopiko black twin 20g.",
+      "unit": "pcs",
+      "rate": 130,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "8998666001719": {
+      "code": "8998666001719",
+      "name": "kopiko brown coffee twin 20g.",
+      "unit": "pcs",
+      "rate": 130,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "8998666001726": {
+      "code": "8998666001726",
+      "name": "kopiko blanca twin 20g.",
+      "unit": "pcs",
+      "rate": 130,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "8998866623032": {
+      "code": "8998866623032",
+      "name": "top cafe twin plus 1",
+      "unit": "pcs",
+      "rate": 130,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4902430583169": {
+      "code": "4902430583169",
+      "name": "ariel sunrise fresh 66g.",
+      "unit": "pcs",
+      "rate": 90,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "yb2MCb24800361388252": {
+      "code": "yb2MCb24800361388252",
+      "name": "nescafe classic 48stick",
+      "unit": "pcs",
+      "rate": 150,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "7622210892126": {
+      "code": "7622210892126",
+      "name": "eden sulit pack",
+      "unit": "pcs",
+      "rate": 18,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4808647210099": {
+      "code": "4808647210099",
+      "name": "calumet baking powder 50g.",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4801668606865": {
+      "code": "4801668606865",
+      "name": "mafran all purpose dressing orange",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800344004964": {
+      "code": "4800344004964",
+      "name": "silven swan 100ml.",
+      "unit": "pcs",
+      "rate": 7,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "014285003816": {
+      "code": "014285003816",
+      "name": "mafran ketsup 190g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800344001949": {
+      "code": "4800344001949",
+      "name": "silver swan soy sauce 200ml.",
+      "unit": "pcs",
+      "rate": 13,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800344001963": {
+      "code": "4800344001963",
+      "name": "silver swan soy sauce 100ml.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800344040122": {
+      "code": "4800344040122",
+      "name": "silver swan salted black beans 100ml",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4801668607497": {
+      "code": "4801668607497",
+      "name": "ufc green peas 155g.",
+      "unit": "pcs",
+      "rate": 18,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4806504713127": {
+      "code": "4806504713127",
+      "name": "mega prime green peas 155g",
+      "unit": "pcs",
+      "rate": 18,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4801668600542": {
+      "code": "4801668600542",
+      "name": "datu puti patis flavor 150ml.",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800344004940": {
+      "code": "4800344004940",
+      "name": "silver swan sukang puti 200ml.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800024003652": {
+      "code": "4800024003652",
+      "name": "del monte pineapple crushed",
+      "unit": "pcs",
+      "rate": 43,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "748485150093": {
+      "code": "748485150093",
+      "name": "coco mama fresh gata 400ml.",
+      "unit": "pcs",
+      "rate": 70,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800024556899": {
+      "code": "4800024556899",
+      "name": "del monte tomato paste150g.",
+      "unit": "pcs",
+      "rate": 35,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800024575425": {
+      "code": "4800024575425",
+      "name": "del monte filipino style tomato sauce 200g.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800024570611": {
+      "code": "4800024570611",
+      "name": "delmonte pineapple tidbits 115g.",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800361416726": {
+      "code": "4800361416726",
+      "name": "nescafe creamywhite twin 20g.",
+      "unit": "pcs",
+      "rate": 140,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800088116107": {
+      "code": "4800088116107",
+      "name": "virginia cornbeef 180g.",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800088115261": {
+      "code": "4800088115261",
+      "name": "virginia corned chicken",
+      "unit": "pcs",
+      "rate": 50,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800088115278": {
+      "code": "4800088115278",
+      "name": "virginia chicken sisig 175g.",
+      "unit": "pcs",
+      "rate": 50,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "748485802381": {
+      "code": "748485802381",
+      "name": "wow ulam menudo 155g.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "748485802084": {
+      "code": "748485802084",
+      "name": "wow ulam caldereta 155g.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806504712182": {
+      "code": "4806504712182",
+      "name": "mega mamatuna caldereta 155g.",
+      "unit": "pcs",
+      "rate": 23,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806504712168": {
+      "code": "4806504712168",
+      "name": "mega mama tuna flakes in oil 155g.",
+      "unit": "pcs",
+      "rate": 23,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "748485802077": {
+      "code": "748485802077",
+      "name": "wow ulam afritada155g.",
+      "unit": "pcs",
+      "rate": 124,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800088116015": {
+      "code": "4800088116015",
+      "name": "virginia sisig 150g.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "748485800738": {
+      "code": "748485800738",
+      "name": "argentina beefloaf 150g.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800088125109": {
+      "code": "4800088125109",
+      "name": "el rancho vienna sausage 135g.",
+      "unit": "pcs",
+      "rate": 41,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "748485900032": {
+      "code": "748485900032",
+      "name": "fresca tuna caldereta",
+      "unit": "pcs",
+      "rate": 29,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "748485900049": {
+      "code": "748485900049",
+      "name": "fresca tuna mechado175g.",
+      "unit": "pcs",
+      "rate": 29,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800088146166": {
+      "code": "4800088146166",
+      "name": "australian cornbeef 175g.",
+      "unit": "pcs",
+      "rate": 38,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806504710287": {
+      "code": "4806504710287",
+      "name": "mega squid 155g.",
+      "unit": "pcs",
+      "rate": 43,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800088146012": {
+      "code": "4800088146012",
+      "name": "australian karne norte 150g.",
+      "unit": "pcs",
+      "rate": 32,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "748485900094": {
+      "code": "748485900094",
+      "name": "fresca tuna fakes in oil 175g.",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "748485900070": {
+      "code": "748485900070",
+      "name": "fresca tuna adobo175g.",
+      "unit": "pcs",
+      "rate": 30,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770100611": {
+      "code": "4807770100611",
+      "name": "Bingo double choco 10packs",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806018405662": {
+      "code": "4806018405662",
+      "name": "LEMON SQUARE Lava cake choco flavored cake 10 bars",
+      "unit": "pcs",
+      "rate": 82,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770123382": {
+      "code": "4807770123382",
+      "name": "BINGO Milkee straberry milk 10 packs",
+      "unit": "pcs",
+      "rate": 63,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4807770100697": {
+      "code": "4807770100697",
+      "name": "BINGO Vanii flavored 10pcks",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4807770100536": {
+      "code": "4807770100536",
+      "name": "BINGO Orange flavored 10packs",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800092660795": {
+      "code": "4800092660795",
+      "name": "CHOCO MUCHO White choco caramel 10bars",
+      "unit": "pcs",
+      "rate": 85,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "6975815120240": {
+      "code": "6975815120240",
+      "name": "Mobile Jelly 30pcs.",
+      "unit": "pcs",
+      "rate": 121,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "6965481230831": {
+      "code": "6965481230831",
+      "name": "Crispy Cotton Candy 30pcs.",
+      "unit": "pcs",
+      "rate": 116,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "750515021204": {
+      "code": "750515021204",
+      "name": "M.Y. San Grahams crackers handy pack",
+      "unit": "pcs",
+      "rate": 49,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4856395412395": {
+      "code": "4856395412395",
+      "name": "Nata De Coconut 30pcs.",
+      "unit": "pcs",
+      "rate": 121,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800103342665": {
+      "code": "4800103342665",
+      "name": "BUBBLE JOE strawberry flavored 25pcs.",
+      "unit": "pcs",
+      "rate": 23,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800103342269": {
+      "code": "4800103342269",
+      "name": "BUBBLE JOE Orange flavored 25pcs.",
+      "unit": "pcs",
+      "rate": 23,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800103342184": {
+      "code": "4800103342184",
+      "name": "BUBBLE JOE Bubble gum 25pcs.",
+      "unit": "pcs",
+      "rate": 23,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800194107822": {
+      "code": "4800194107822",
+      "name": "OISHI O Puff choco 24pcs.",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800194126014": {
+      "code": "4800194126014",
+      "name": "OISHI O Puff uber flavored 25 pcs.",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "8996001346303": {
+      "code": "8996001346303",
+      "name": "FRES mint candy grape 50pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800092330636": {
+      "code": "4800092330636",
+      "name": "BARNUTS choco peanut bars",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800016307041": {
+      "code": "4800016307041",
+      "name": "JACK&JILL Dynamite choco mint 50pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800194107716": {
+      "code": "4800194107716",
+      "name": "OISHI O Puff mango cream",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "\\4800194107945": {
+      "code": "\\4800194107945",
+      "name": "OISHI O Puff",
+      "unit": "pcs",
+      "rate": 33,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "8935001720959": {
+      "code": "8935001720959",
+      "name": "MINI MENTOS Tutti Frutti flavor 20 mini rolls",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800103342047": {
+      "code": "4800103342047",
+      "name": "CHUBBY peanut chewy candy 20pcs.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4800103341989": {
+      "code": "4800103341989",
+      "name": "CHUBBY milk chewy candy 20pcs.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800103341842": {
+      "code": "4800103341842",
+      "name": "CHUBBY caramel chewy candy 20pcs.",
+      "unit": "pcs",
+      "rate": 24,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800103342795": {
+      "code": "4800103342795",
+      "name": "LIPPS pop stik strawberry lolipop 20pcs.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800016307010": {
+      "code": "4800016307010",
+      "name": "MAXX cool mernthol candy eucalyptus flavored 50pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800492000429": {
+      "code": "4800492000429",
+      "name": "JUMBO KRIM STIX softee milk choco 25pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800492000726": {
+      "code": "4800492000726",
+      "name": "JUMBO KRIM STIX milk flavor 25pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4800492000924": {
+      "code": "4800492000924",
+      "name": "JUMBO KRIM STIX ube flavored 15pcs",
+      "unit": "pcs",
+      "rate": 29,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800492000795": {
+      "code": "4800492000795",
+      "name": "JUMBO KRIM STIX cookies & cream 15pcs.",
+      "unit": "pcs",
+      "rate": 29,
+      "discount": 0,
+      "qty": 9999999,
+      "minAlert": 0
+    },
+    "4806506703768": {
+      "code": "4806506703768",
+      "name": "GOLDEN COIN choco candy 24pcs.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "8996001338063": {
+      "code": "8996001338063",
+      "name": "FRES mint candy Barley flavor 50pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "8996001346365": {
+      "code": "8996001346365",
+      "name": "FRES mint candy apple peach flavor 50pcs.",
+      "unit": "pcs",
+      "rate": 45,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4800103344782": {
+      "code": "4800103344782",
+      "name": "IPPS POP STIX strawbeyy flavor 50+10 pcs free",
+      "unit": "pcs",
+      "rate": 65,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "14800006001949": {
+      "code": "14800006001949",
+      "name": "TAB-TAB choco tablets",
+      "unit": "pcs",
+      "rate": 22,
+      "discount": 0,
+      "qty": 9999,
+      "minAlert": 0
+    },
+    "4806506703904": {
+      "code": "4806506703904",
+      "name": "FROSTY ice pop 8pcs.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4806506704864": {
+      "code": "4806506704864",
+      "name": "SOFTEE asstd. jelly 24pcs.",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4806506706431": {
+      "code": "4806506706431",
+      "name": "SOFTEE assted jelly pudding stick 24pcs.",
+      "unit": "pcs",
+      "rate": 20,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "4902430951357": {
+      "code": "4902430951357",
+      "name": "SAFEGUARD floral pink 65g",
+      "unit": "pcs",
+      "rate": 22,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "SILKA PAPAYA": {
+      "code": "SILKA PAPAYA",
+      "name": "SILKA PAPAYA 65g.",
+      "unit": "pcs",
+      "rate": 25,
+      "discount": 0,
+      "qty": 99999,
+      "minAlert": 0
+    },
+    "8850006325216": {
+      "code": "8850006325216",
+      "name": "COLGATE regular flavor 20g.",
+      "unit": "pcs",
+      "rate": 10,
+      "discount": 0,
+      "qty": 1099998,
+      "minAlert": 0
+    },
+    "4902430344876": {
+      "code": "4902430344876",
+      "name": "DOWNY safeguard 12pcs.26ml.",
+      "unit": "pcs",
+      "rate": 78,
+      "discount": 0,
+      "qty": 1099998,
+      "minAlert": 0
+    },
+    "4902430389570": {
+      "code": "4902430389570",
+      "name": "JOY lemon flavor 18.5ml.",
+      "unit": "pcs",
+      "rate": 7,
+      "discount": 0,
+      "qty": 1099998,
+      "minAlert": 0
+    },
+    "4902430389549": {
+      "code": "4902430389549",
+      "name": "JOY safeguard 18.5ml.",
+      "unit": "pcs",
+      "rate": 7,
+      "discount": 0,
+      "qty": 199998,
+      "minAlert": 0
+    },
+    "4800317100013": {
+      "code": "4800317100013",
+      "name": "WHITE RABBIT butter coffee 100pcs.",
+      "unit": "pcs",
+      "rate": 98,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "4902430831161": {
+      "code": "4902430831161",
+      "name": "TIDE with downy 67g. 6pcs.",
+      "unit": "pcs",
+      "rate": 90,
+      "discount": 0,
+      "qty": 999999,
+      "minAlert": 0
+    },
+    "2144382721443827": {
+      "code": "2144382721443827",
+      "name": "TIDE with dawny 76g.",
+      "unit": "pcs",
+      "rate": 17,
+      "discount": 0,
+      "qty": 0,
+      "minAlert": 0
+    }
+  }
+}
